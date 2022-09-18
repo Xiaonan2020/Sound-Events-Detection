@@ -1,0 +1,6 @@
+silence|0
+speech|1
+environment|2
+cough|3
+guitar|4
+snoring|5
